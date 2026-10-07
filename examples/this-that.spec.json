@@ -1,0 +1,24 @@
+{
+  "eyebrow": "Demonstratives · here / there",
+  "title": "This, that, these, those",
+  "blocks": [
+    {
+      "kind": "illustration",
+      "caps": "This/these = here, that/those = there",
+      "cols": [
+        {"emoji": "👈", "title": "here"},
+        {"emoji": "👉", "title": "there"}
+      ],
+      "rows": [
+        {"label": "singular", "cells": [
+          {"color": "green", "figure": "🐵", "word": "this", "caption": "**This** is a monster."},
+          {"color": "green", "figure": "🐵", "word": "that", "caption": "**That** is a monster."}
+        ]},
+        {"label": "plural", "cells": [
+          {"color": "blue", "figure": "🐵🐵", "word": "these", "caption": "**These** are monsters."},
+          {"color": "blue", "figure": "🐵🐵", "word": "those", "caption": "**Those** are monsters."}
+        ]}
+      ]
+    }
+  ]
+}

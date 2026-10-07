@@ -1,0 +1,36 @@
+{
+  "eyebrow": "Present simple · form",
+  "title": "The verb **be** — am / is / are",
+  "blocks": [
+    {"kind": "table",
+     "cols": ["", "Positive", "Negative", "Question"],
+     "grid": "78px 1.02fr 1.42fr .92fr",
+     "col_colors": ["", "green", "orange", "purple"],
+     "rows": [
+       {"head": "I", "cells": ["I am|I'm", "I am not|I'm not", "Am I?"]},
+       {"head": "You", "cells": ["You are|You're", "You are not|You're not|You aren't", "Are you?"]},
+       {"head": "He", "cells": ["He is|He's", "He is not|He's not|He isn't", "Is he?"]},
+       {"head": "She", "cells": ["She is|She's", "She is not|She's not|She isn't", "Is she?"]},
+       {"head": "It", "cells": ["It is|It's", "It is not|It's not|It isn't", "Is it?"]},
+       {"head": "We", "cells": ["We are|We're", "We are not|We're not|We aren't", "Are we?"]},
+       {"head": "They", "cells": ["They are|They're", "They are not|They're not|They aren't", "Are they?"]}
+     ]},
+    {"kind": "table",
+     "caps": "Short answers",
+     "grid": "78px 1fr 1.62fr",
+     "col_colors": ["", "green", "orange"],
+     "rows": [
+       {"head": "I", "cells": ["Yes, I am.", "No, I am not.|No, I'm not."]},
+       {"head": "You", "cells": ["Yes, you are.", "No, you are not.|No, you're not.|No, you aren't."]},
+       {"head": "He / She / It", "cells": ["Yes, he is.|Yes, she is.|Yes, it is.", "No, he's not.|No, he isn't.|No, she's not.|No, she isn't.|No, it's not.|No, it isn't."]},
+       {"head": "We / You / They", "cells": ["Yes, we are.|Yes, you are.|Yes, they are.", "No, we're not.|No, we aren't.|No, you're not.|No, you aren't.|No, they're not.|No, they aren't."]}
+     ]},
+    {"kind": "note",
+     "color": "yellow",
+     "title": "We cannot use short forms in positive short answers.",
+     "lines": [
+       {"mark": "✗", "text": "A: Are you happy? — B: Yes, I'm."},
+       {"mark": "✓", "text": "A: Are you happy? — B: Yes, I am."}
+     ]}
+  ]
+}

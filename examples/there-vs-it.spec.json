@@ -1,0 +1,37 @@
+{
+  "eyebrow": "There or it · use",
+  "title": "**There** vs **it** — two different jobs",
+  "blocks": [
+    {"kind": "cards", "cols": 2,
+     "cards": [
+       {"color": "blue", "emoji": "📍", "title": "THERE",
+        "lines": [
+          "Use **there** to say that something **exists** or **is happening.**",
+          "**There** is a problem. **There** was an accident.",
+          "Use **there** to say **when** or **where** something is.",
+          "**There** is a party tomorrow. **There** are some cups on the table."
+        ]},
+       {"color": "yellow", "emoji": "🕓", "title": "IT",
+        "lines": [
+          "Use **it** for **times and dates:** **It’s** four o’clock. **It’s** my birthday today.",
+          "Use **it** for the **weather:** **It** rained a lot yesterday. **It’s** four degrees.",
+          "Use **it** for **distance:** **It’s** 2 kilometres from the hotel.",
+          "Use **it** for something **again** — something already known."
+        ]}
+     ]},
+    {"kind": "note", "color": "blue",
+     "title": "Use **there** the first time — **it** / **they** after that",
+     "lines": [
+       {"text": "**There** are some cups on the table. But **they** are dirty."},
+       {"text": "**There** was an accident. **It** was horrible."},
+       {"text": "**There** is a party tomorrow. **It** will be fantastic!"}
+     ]},
+    {"kind": "note", "color": "yellow", "title": "Common mistakes",
+     "lines": [
+       {"mark": "✗", "text": "The worst part of the exam ~~it’s~~ the speaking."},
+       {"mark": "✓", "text": "The worst part of the exam **is** the speaking."},
+       {"mark": "✗", "text": "I love their music. ~~Is~~ fantastic!"},
+       {"mark": "✓", "text": "I love their music. **It’s** fantastic!"}
+     ]}
+  ]
+}
