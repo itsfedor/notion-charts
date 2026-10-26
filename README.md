@@ -7,7 +7,7 @@
 
 # Notion Charts
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=fff)](https://www.python.org)
 [![Render: Playwright](https://img.shields.io/badge/render-Playwright-2EAD33?logo=playwright&logoColor=fff)](https://playwright.dev)
 
@@ -84,4 +84,4 @@ See [docs/redesign-workflow.md](docs/redesign-workflow.md).
 
 ## License
 
-MIT © Fedor Molodtsov
+AGPL-3.0. See [LICENSE](LICENSE). If AGPL does not fit your use case, a commercial license is available — [COMMERCIAL.md](COMMERCIAL.md).
